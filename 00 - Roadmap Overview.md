@@ -12,14 +12,14 @@ Use this vault in Obsidian:
 
 ## 🌳 High-Level Tree
 
-1. [[01 - Fundamentals|Fundamentals]]
-2. [[02 - RDBMS|Relational Databases (RDBMS)]]
-3. [[03 - NoSQL|NoSQL Ecosystem]]
-4. [[04 - Big Data|Big Data & Analytics]]
-5. [[05 - Cloud Databases|Cloud Databases]]
-6. [[06 - Internals|Database Internals]]
-7. [[07 - Data Modeling|Data Modeling & Architecture]]
-8. [[08 - Modern Databases|Modern Distributed Databases]]
+1. [Fundamentals](01%20-%20Fundamentals.md)
+2. [Relational Databases (RDBMS)](02%20-%20RDBMS.md)
+3. [NoSQL Ecosystem](03%20-%20NoSQL.md)
+4. [Big Data & Analytics](04%20-%20Big%20Data.md)
+5. [Cloud Databases](05%20-%20Cloud%20Databases.md)
+6. [Database Internals](06%20-%20Internals.md)
+7. [Data Modeling & Architecture](07%20-%20Data%20Modeling.md)
+8. [Modern Distributed Databases](08%20-%20Modern%20Databases.md)
 
 ---
 
@@ -38,9 +38,9 @@ Use this vault in Obsidian:
 
 ## 📚 How to Use This Roadmap
 
-- Start with [[01 - Fundamentals]] and **do not rush**. These concepts appear everywhere.
-- After fundamentals, move to [[02 - RDBMS]] and [[03 - NoSQL]] to understand trade-offs.
-- Use [[06 - Internals]] and [[08 - Modern Databases]] once you’re comfortable with basics.
-- Revisit [[07 - Data Modeling]] often – good modeling is what separates juniors from seniors.
+- Start with [01 - Fundamentals](01%20-%20Fundamentals.md) and **do not rush**. These concepts appear everywhere.
+- After fundamentals, move to [02 - RDBMS](02%20-%20RDBMS.md) and [03 - NoSQL](03%20-%20NoSQL.md) to understand trade-offs.
+- Use [06 - Internals](06%20-%20Internals.md) and [08 - Modern Databases](08%20-%20Modern%20Databases.md) once you’re comfortable with basics.
+- Revisit [07 - Data Modeling](07%20-%20Data%20Modeling.md) often – good modeling is what separates juniors from seniors.
 
 When in doubt, come back to this page as your **home base**.

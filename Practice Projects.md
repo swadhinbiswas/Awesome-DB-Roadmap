@@ -10,9 +10,9 @@ End-to-end projects that connect multiple topics across this roadmap. Treat thes
 
 ### Topics Used
 
-- [[01 - Fundamentals]] – ACID, Transactions & Isolation, Indexes, Query Optimization
-- [[02 - RDBMS]] – [[PostgreSQL]] and [[Concepts]]
-- [[07 - Data Modeling]] – [[ER Modeling]], normalization, basic [[Star Schema]] for simple reports
+- [01 - Fundamentals](01%20-%20Fundamentals.md) – ACID, Transactions & Isolation, Indexes, Query Optimization
+- [02 - RDBMS](02%20-%20RDBMS.md) – [PostgreSQL](02%20-%20RDBMS/PostgreSQL.md) and [Concepts](02%20-%20RDBMS/Concepts.md)
+- [07 - Data Modeling](07%20-%20Data%20Modeling.md) – [ER Modeling](07%20-%20Data%20Modeling/ER%20Modeling.md), normalization, basic [Star Schema](07%20-%20Data%20Modeling/Star%20Schema.md) for simple reports
 
 ### Checklist
 
@@ -34,8 +34,8 @@ End-to-end projects that connect multiple topics across this roadmap. Treat thes
 
 ### Topics Used
 
-- [[04 - Big Data]] – [[Distributed Storage]], [[Data Warehouses]], [[Query Engines]]
-- [[07 - Data Modeling]] – [[Star Schema]], [[Snowflake Schema]], [[SCD Types]]
+- [04 - Big Data](04%20-%20Big%20Data.md) – [Distributed Storage](04%20-%20Big%20Data/Distributed%20Storage.md), [Data Warehouses](04%20-%20Big%20Data/Data%20Warehouses.md), [Query Engines](04%20-%20Big%20Data/Query%20Engines.md)
+- [07 - Data Modeling](07%20-%20Data%20Modeling.md) – [Star Schema](07%20-%20Data%20Modeling/Star%20Schema.md), [Snowflake Schema](07%20-%20Data%20Modeling/Snowflake%20Schema.md), [SCD Types](07%20-%20Data%20Modeling/SCD%20Types.md)
 
 ### Checklist
 
@@ -54,8 +54,8 @@ End-to-end projects that connect multiple topics across this roadmap. Treat thes
 
 ### Topics Used
 
-- [[03 - NoSQL]] – [[Time-Series Databases]], possibly [[Wide-Column Stores]]
-- [[04 - Big Data]] – [[Streaming Systems]]
+- [03 - NoSQL](03%20-%20NoSQL.md) – [Time-Series Databases](03%20-%20NoSQL/Time-Series%20Databases.md), possibly [Wide-Column Stores](03%20-%20NoSQL/Wide-Column%20Stores.md)
+- [04 - Big Data](04%20-%20Big%20Data.md) – [Streaming Systems](04%20-%20Big%20Data/Streaming%20Systems.md)
 
 ### Checklist
 
@@ -73,9 +73,9 @@ End-to-end projects that connect multiple topics across this roadmap. Treat thes
 
 ### Topics Used
 
-- [[03 - NoSQL]] – [[Document Stores]], [[Key-Value Stores]]
-- [[07 - Data Modeling]] – [[Polyglot Persistence]], [[Microservice DB Patterns]], [[CQRS]], [[Event Sourcing]]
-- [[05 - Cloud Databases]] – one managed DB of your choice
+- [03 - NoSQL](03%20-%20NoSQL.md) – [Document Stores](03%20-%20NoSQL/Document%20Stores.md), [Key-Value Stores](03%20-%20NoSQL/Key-Value%20Stores.md)
+- [07 - Data Modeling](07%20-%20Data%20Modeling.md) – [Polyglot Persistence](07%20-%20Data%20Modeling/Polyglot%20Persistence.md), [Microservice DB Patterns](07%20-%20Data%20Modeling/Microservice%20DB%20Patterns.md), [CQRS](07%20-%20Data%20Modeling/CQRS.md), [Event Sourcing](07%20-%20Data%20Modeling/Event%20Sourcing.md)
+- [05 - Cloud Databases](05%20-%20Cloud%20Databases.md) – one managed DB of your choice
 
 ### Checklist
 
@@ -93,9 +93,9 @@ End-to-end projects that connect multiple topics across this roadmap. Treat thes
 
 ### Topics Used
 
-- [[08 - Modern Databases]] – [[Google Spanner]], [[CockroachDB]], [[YugabyteDB]], [[TiDB]], [[PlanetScale]], [[SingleStore]]
-- [[06 - Internals]] – [[Raft Consensus]], [[B-Tree vs LSM]], [[2PC & 3PC]]
-- [[01 - Fundamentals]] – [[CAP Theorem]], [[Sharding]], [[Replication]]
+- [08 - Modern Databases](08%20-%20Modern%20Databases.md) – [Google Spanner](08%20-%20Modern%20Databases/Google%20Spanner.md), [CockroachDB](08%20-%20Modern%20Databases/CockroachDB.md), [YugabyteDB](08%20-%20Modern%20Databases/YugabyteDB.md), [TiDB](08%20-%20Modern%20Databases/TiDB.md), [PlanetScale](08%20-%20Modern%20Databases/PlanetScale.md), [SingleStore](08%20-%20Modern%20Databases/SingleStore.md)
+- [06 - Internals](06%20-%20Internals.md) – [Raft Consensus](06%20-%20Internals/Raft%20Consensus.md), [B-Tree vs LSM](06%20-%20Internals/B-Tree%20vs%20LSM.md), [2PC & 3PC](06%20-%20Internals/2PC%20&%203PC.md)
+- [01 - Fundamentals](01%20-%20Fundamentals.md) – [CAP Theorem](01%20-%20Fundamentals/CAP%20Theorem.md), [Sharding](01%20-%20Fundamentals/Sharding.md), [Replication](01%20-%20Fundamentals/Replication.md)
 
 ### Checklist
 

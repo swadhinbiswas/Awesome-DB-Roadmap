@@ -42,8 +42,8 @@ difficulty: intermediate
 - [ ] Example task 2
 
 ## 🔗 Related
-- [[01 - Fundamentals]]
-- [[02 - RDBMS]]
+- [01 - Fundamentals](01%20-%20Fundamentals.md)
+- [02 - RDBMS](02%20-%20RDBMS.md)
 
 ```
 
